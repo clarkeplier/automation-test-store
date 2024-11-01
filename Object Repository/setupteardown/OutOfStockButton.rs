@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OutOfStockButton</name>
+   <tag></tag>
+   <elementGuidId>063a17e0-c26c-4268-a0cc-93afeba774b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Out of Stock' or . = 'Out of Stock')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.nostock</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Out of Stock&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b19a1479-5059-4e51-8f45-380734981aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nostock</value>
+      <webElementGuid>aea1d38d-f715-4e92-a754-6155359be713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Out of Stock</value>
+      <webElementGuid>c56fe395-a8a2-49be-8117-67bd1e91b6e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product&quot;)/fieldset[1]/div[@class=&quot;mt20&quot;]/ul[@class=&quot;productpagecart&quot;]/li[1]/span[@class=&quot;nostock&quot;]</value>
+      <webElementGuid>97c4a02a-043f-4ecb-9d63-76f6f98e9089</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product']/fieldset/div[5]/ul/li/span</value>
+      <webElementGuid>7a7ef48c-d740-47f9-bd4a-76e8d3c5d018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$9.99'])[2]/following::span[1]</value>
+      <webElementGuid>228dcb1a-7f7f-4f34-b000-3aedc1bef95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::span[1]</value>
+      <webElementGuid>aa7f873d-aa28-45c9-8fc9-4bed5e3d37f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Out of Stock']/parent::*</value>
+      <webElementGuid>df8d7dc6-29e3-48e6-bcdf-ac460e852557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/ul/li/span</value>
+      <webElementGuid>562f50c7-5a15-4c74-b2ec-9308095a8506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Out of Stock' or . = 'Out of Stock')]</value>
+      <webElementGuid>9ce1431c-fe7c-4c5d-999c-3c7aa9e87394</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

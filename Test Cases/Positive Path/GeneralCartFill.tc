@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill the cart as a guest and complete</description>
+   <name>GeneralCartFill</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e48b8e30-bcc7-4934-8448-f6e49497d278</testCaseGuid>
+</TestCaseEntity>

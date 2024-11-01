@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HelperCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c8220d8-c257-4d03-8d97-472e0c513163</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ecc8b8b-d8e3-4fa6-8e07-b959c45a69a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ecc8b8b-d8e3-4fa6-8e07-b959c45a69a1</id>
+      <masked>false</masked>
+      <name>siteIndex</name>
+   </variable>
+</TestCaseEntity>

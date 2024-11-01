@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HelperCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>adbdd0ea-4818-4e4b-889c-915737a0ba00</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>SCRIPT_VARIABLE</type>
+      <value>null</value>
+      <variableId>92a94372-5fef-4bb6-a2a9-432a5d33e9a6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>SCRIPT_VARIABLE</type>
+      <value>null</value>
+      <variableId>f495e6f9-cfb1-4e1a-9a1a-aabecd2db130</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92a94372-5fef-4bb6-a2a9-432a5d33e9a6</id>
+      <masked>false</masked>
+      <name>siteIndex</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f495e6f9-cfb1-4e1a-9a1a-aabecd2db130</id>
+      <masked>false</masked>
+      <name>testItem</name>
+   </variable>
+</TestCaseEntity>

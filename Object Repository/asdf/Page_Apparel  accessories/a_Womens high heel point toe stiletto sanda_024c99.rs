@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Womens high heel point toe stiletto sanda_024c99</name>
+   <tag></tag>
+   <elementGuidId>d0227b92-00b1-4b55-a320-9a9652f55522</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/div[2]/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Womens high heel point toe stiletto sandals ankle strap court shoes&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>11fe3792-0470-4558-8817-72b996990419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prdocutname</value>
+      <webElementGuid>f26e4637-a6bf-4266-bbe5-da25f3d30f49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://automationteststore.com/index.php?rt=product/product&amp;path=68&amp;product_id=118</value>
+      <webElementGuid>b60d787c-c9c5-4d9f-b431-4a34a5273e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Womens high heel point toe stiletto sandals ankle strap court shoes</value>
+      <webElementGuid>76aeadd6-e9c6-4249-9b9f-b0947cba237c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Womens high heel point toe stiletto sandals ankle strap court shoes</value>
+      <webElementGuid>b568ca41-b687-455a-b4ec-a6c35d4ecaca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12 col-xs-12 mt20&quot;]/div[1]/div[@class=&quot;contentpanel&quot;]/div[@class=&quot;thumbnails grid row list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;fixed_wrapper&quot;]/div[@class=&quot;fixed&quot;]/a[@class=&quot;prdocutname&quot;]</value>
+      <webElementGuid>43f578b7-0ba7-4f79-9502-12781165396f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/div[2]/div[2]/div/div/a</value>
+      <webElementGuid>8d2e0458-565d-4b32-8387-cddac56961dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Womens high heel point toe stiletto sandals ankle strap court shoes')]</value>
+      <webElementGuid>e4f5fcda-730f-414c-9c65-aaf4e466d1f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$26.00'])[1]/following::a[1]</value>
+      <webElementGuid>8021d9db-a855-4f57-b2aa-1c931935b7ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Review'])[1]/following::a[2]</value>
+      <webElementGuid>eca8e0af-fea8-4384-930c-0c462dbd5cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/preceding::a[2]</value>
+      <webElementGuid>691763a8-77bf-4763-b8e7-b896bef582ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Review'])[2]/preceding::a[3]</value>
+      <webElementGuid>a3c11a7b-b63d-4d2b-81af-5e3b1031a338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Womens high heel point toe stiletto sandals ankle strap court shoes']/parent::*</value>
+      <webElementGuid>8a31e720-d82f-4812-a617-c1be4bbdeda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://automationteststore.com/index.php?rt=product/product&amp;path=68&amp;product_id=118')]</value>
+      <webElementGuid>2ca616ee-4cf1-458f-b566-a1b6911aa042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/a</value>
+      <webElementGuid>1567a015-550e-4603-84ec-5b213aa10513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://automationteststore.com/index.php?rt=product/product&amp;path=68&amp;product_id=118' and @title = 'Womens high heel point toe stiletto sandals ankle strap court shoes' and (text() = 'Womens high heel point toe stiletto sandals ankle strap court shoes' or . = 'Womens high heel point toe stiletto sandals ankle strap court shoes')]</value>
+      <webElementGuid>b72a62fe-0142-4a12-a7ba-517c8a6c4b6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

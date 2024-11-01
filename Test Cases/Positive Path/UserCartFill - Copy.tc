@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill the cart as a registered user and complete</description>
+   <name>UserCartFill - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef3a1682-f813-482e-9947-a630befa0c45</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9432616e-fdda-4cbc-a654-09654fa9f99c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/SiteIndexLog</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>200df5d8-8b7b-430c-b5f6-4fcbb74a4293</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestItems</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>200df5d8-8b7b-430c-b5f6-4fcbb74a4293</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ItemID</value>
+      <variableId>44ba3e03-1dd7-4686-90fc-e2e513b18d1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>9432616e-fdda-4cbc-a654-09654fa9f99c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Index</value>
+      <variableId>bb303130-426f-4834-99c7-c3f7087fbe54</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('setupteardown/Item1')</defaultValue>
+      <description>Item to be added to cart and purchased</description>
+      <id>44ba3e03-1dd7-4686-90fc-e2e513b18d1b</id>
+      <masked>false</masked>
+      <name>purchaseItem</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description>Number as a string associated with category's webpage</description>
+      <id>bb303130-426f-4834-99c7-c3f7087fbe54</id>
+      <masked>false</masked>
+      <name>siteIndex</name>
+   </variable>
+</TestCaseEntity>

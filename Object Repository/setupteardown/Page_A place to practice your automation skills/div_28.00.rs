@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_28.00</name>
+   <tag></tag>
+   <elementGuidId>ed3a3761-489c-49a4-8fc0-7befc7536708</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pricetag.jumbotron.added_to_cart > div.price > div.oneprice</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block_frame_featured_1769']/div/div[3]/div[2]/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#block_frame_featured_1769 >> internal:text=&quot;$28.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76c449b5-ff1f-4b13-8336-4d5bdafcc5ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oneprice</value>
+      <webElementGuid>b24794ff-7e0a-45e6-b4df-dd74b701b92b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$28.00</value>
+      <webElementGuid>318534f1-b99d-4f3f-8090-55384a61c033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block_frame_featured_1769&quot;)/div[@class=&quot;thumbnails list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;pricetag jumbotron added_to_cart&quot;]/div[@class=&quot;price&quot;]/div[@class=&quot;oneprice&quot;]</value>
+      <webElementGuid>8c24bf08-b9ad-4e1e-80c6-cb170fd84e29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_frame_featured_1769']/div/div[3]/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>ccea2d4c-98df-4dfc-8ff2-ad85dbd4f2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Review'])[3]/following::div[5]</value>
+      <webElementGuid>a0b7d804-e7bf-47cc-87dd-009c29febc04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[3]/following::div[5]</value>
+      <webElementGuid>346528a7-c9b8-4372-a505-ce1e90122df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tropiques Minerale Loose Bronzer'])[1]/preceding::div[1]</value>
+      <webElementGuid>6660ad7d-19bd-4b03-a9d5-32dd7023aef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[4]/preceding::div[3]</value>
+      <webElementGuid>6fb9ce9a-3af7-4a27-a880-a5571cfb7259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>3f03cf85-9611-432c-8859-b4055b527be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '$28.00' or . = '$28.00')]</value>
+      <webElementGuid>500a085c-439c-4339-a0c5-dd944e1d6fff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

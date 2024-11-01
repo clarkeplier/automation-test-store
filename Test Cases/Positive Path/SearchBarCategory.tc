@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search by category</description>
+   <name>SearchBarCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b79ae0c8-9f46-49d8-a05d-8ade5f0f6674</testCaseGuid>
+</TestCaseEntity>

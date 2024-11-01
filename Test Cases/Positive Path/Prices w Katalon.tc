@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check correct prices are displayed and calculated</description>
+   <name>Prices w Katalon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef54f21c-ba70-4c45-a219-7099c90c9180</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5979669-c43f-49fb-a787-eb4c2ae5276f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5979669-c43f-49fb-a787-eb4c2ae5276f</id>
+      <masked>false</masked>
+      <name>price1</name>
+   </variable>
+</TestCaseEntity>

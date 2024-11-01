@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test to verify searches lead to correct items based on item title</description>
+   <name>Search Bar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>942ac583-28d3-4f34-863a-3fb4fa7ab0cc</testCaseGuid>
+</TestCaseEntity>

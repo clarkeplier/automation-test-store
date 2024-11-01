@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Item2</name>
+   <tag></tag>
+   <elementGuidId>7f0c7825-16f9-4b8f-b90d-5d598ed84ef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://automationteststore.com/index.php?rt=product/product&amp;path=52&amp;product_id=70' and @title = 'Eau Parfumee au The Vert Shampoo' and (text() = 'Eau Parfumee au The Vert Shampoo' or . = 'Eau Parfumee au The Vert Shampoo')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/div[3]/${index}</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Eau Parfumee au The Vert Shampoo&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a3df1d4-82e0-4b71-8ed3-ca5277d1242d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prdocutname</value>
+      <webElementGuid>c8034c9e-8344-4259-9819-f4426fa9d46c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://automationteststore.com/index.php?rt=product/product&amp;path=52&amp;product_id=70</value>
+      <webElementGuid>28431f92-b2fc-4586-9111-1268d4b016d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Eau Parfumee au The Vert Shampoo</value>
+      <webElementGuid>482841ed-e813-4e12-8d71-2ac26bb66150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Eau Parfumee au The Vert Shampoo</value>
+      <webElementGuid>2b8c7f83-1f3e-48fa-b124-a8f3201ff456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12 col-xs-12 mt20&quot;]/div[1]/div[@class=&quot;contentpanel&quot;]/div[@class=&quot;thumbnails grid row list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;fixed_wrapper&quot;]/div[@class=&quot;fixed&quot;]/a[@class=&quot;prdocutname&quot;]</value>
+      <webElementGuid>e86340ee-cb6b-45d0-a07e-3159445edb9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/div[3]/{$index}</value>
+      <webElementGuid>6838509b-6ecd-447b-82ea-0d11acd228f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>${index}&#xd;
+</value>
+      <webElementGuid>82dc4233-350f-42f3-87aa-53a4ce4ac020</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

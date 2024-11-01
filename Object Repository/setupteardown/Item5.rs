@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Item5</name>
+   <tag></tag>
+   <elementGuidId>92e2656d-0614-490e-b828-98269351ab5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/div[2]/div[6]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b50a97b2-1377-48b4-a82d-f64cc8eaa4c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prdocutname</value>
+      <webElementGuid>0307c7fc-aa47-416c-bfd2-3de57e1ec0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://automationteststore.com/index.php?rt=product/product&amp;path=68&amp;product_id=121</value>
+      <webElementGuid>23442b1c-a728-46dc-ae99-576b83cd85fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie</value>
+      <webElementGuid>2cc6f181-251f-41fc-b98e-d4b8552e6fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie</value>
+      <webElementGuid>99745305-503a-40d7-80e7-7ddb5b85f014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12 col-xs-12 mt20&quot;]/div[1]/div[@class=&quot;contentpanel&quot;]/div[@class=&quot;thumbnails grid row list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;fixed_wrapper&quot;]/div[@class=&quot;fixed&quot;]/a[@class=&quot;prdocutname&quot;]</value>
+      <webElementGuid>b2d38060-78d0-484c-89b6-e83b0e6ea936</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/div[2]/div[6]/div/div/a</value>
+      <webElementGuid>70c6321c-faec-4029-a15e-166b635e8216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie')]</value>
+      <webElementGuid>ec9f6ad5-ac57-493f-9d52-d7798474a071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$21.00'])[1]/following::a[1]</value>
+      <webElementGuid>4a3d09cf-335b-42ae-8428-c58dcd0c4671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Out of Stock'])[2]/following::a[1]</value>
+      <webElementGuid>cfe9c230-f3ce-4729-8787-5412689f012d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[5]/preceding::a[2]</value>
+      <webElementGuid>a1dd234f-588f-4f4b-86eb-b2381d90ed73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Review'])[5]/preceding::a[3]</value>
+      <webElementGuid>cacdf658-c3df-4f76-874a-67eb505c9099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie']/parent::*</value>
+      <webElementGuid>2022b5b6-3b17-4849-9bec-86b3194031b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://automationteststore.com/index.php?rt=product/product&amp;path=68&amp;product_id=121')]</value>
+      <webElementGuid>88380e7f-5800-49b9-a370-9811254f3654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/a</value>
+      <webElementGuid>b31b3f5a-01d1-44b2-9e60-3f2725c620d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://automationteststore.com/index.php?rt=product/product&amp;path=68&amp;product_id=121' and @title = 'Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie' and (text() = 'Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie' or . = 'Designer Men Casual Formal Double Cuffs Grandad Band Collar Shirt Elegant Tie')]</value>
+      <webElementGuid>0c0053d6-5009-4abf-a716-c060423225e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

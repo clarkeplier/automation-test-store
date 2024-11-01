@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>SetupDemo</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Login name for Automation Test Store</description>
+      <initValue>'guest_account_420_69'</initValue>
+      <name>LoginName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password for Automation Test Store</description>
+      <initValue>'uptownfunk'</initValue>
+      <name>LoginPwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>The end of the xpath used to determine which item to purchase</description>
+      <initValue>''</initValue>
+      <name>TESTITEM</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Flag if items still exist or end loop</description>
+      <initValue>true</initValue>
+      <name>FLAG</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>The result of the test</description>
+      <initValue>''</initValue>
+      <name>RESULT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Map of Site Indexes by name</description>
+      <initValue>[('APPAREL &amp; ACCESSORIES') : '68', ('BOOKS') : '65', ('FRAGRANCES') : '49', ('HAIR CARE') : '52', ('MAKEUP') : '36', ('MEN') : '58', ('SKINCARE') : '43']</initValue>
+      <name>SITEINDEX</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('APPAREL &amp; ACCESSORIES') : findTestData('SiteIndexLog').getValue(3, 1), ('BOOKS') : findTestData('SiteIndexLog').getValue(3, 2), ('FRAGRANCES') : findTestData('SiteIndexLog').getValue(3, 3), ('HAIR CARE') : findTestData('SiteIndexLog').getValue(3, 4), ('MAKEUP') : findTestData('SiteIndexLog').getValue(3, 5), ('MEN') : findTestData('SiteIndexLog').getValue(3, 6), ('SKINCARE') : findTestData('SiteIndexLog').getValue(3, 7)]</initValue>
+      <name>ITEMTYPE</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

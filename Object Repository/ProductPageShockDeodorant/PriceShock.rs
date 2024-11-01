@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PriceShock</name>
+   <tag></tag>
+   <elementGuidId>3e0f8e4c-a167-4664-9a2d-93fa8c0dacc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '$14.00' or . = '$14.00')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='product']/fieldset/div[2]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.total-price</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#product >> internal:text=&quot;$14.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f24057a5-f5c1-4a39-b102-2747644e3694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>total-price</value>
+      <webElementGuid>eaf3f412-66c4-4104-a773-bb84587d2005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$14.00</value>
+      <webElementGuid>383e0cc6-5c8e-47db-88e9-d7281bc887f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product&quot;)/fieldset[1]/div[@class=&quot;form-group mt20 mb10 total-price-holder&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;total-price&quot;]</value>
+      <webElementGuid>9b6e0ab7-4be3-4301-85a0-130654cbed82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product']/fieldset/div[2]/label/span</value>
+      <webElementGuid>7fa03c48-af39-4694-ad48-e163b1bd6533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty:'])[1]/following::span[1]</value>
+      <webElementGuid>b1b27985-fa29-40a8-b941-1b43092dceb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::span[1]</value>
+      <webElementGuid>5df3c891-ad87-4ab5-9db2-deccce435d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>8c6304c2-7ca5-41a5-a3a8-155d49331e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$14.00' or . = '$14.00')]</value>
+      <webElementGuid>520e3513-c458-48a3-8879-723c161c45fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
